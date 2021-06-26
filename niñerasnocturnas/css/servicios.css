@@ -1,0 +1,35 @@
+#nosotros .contenedor {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.services1, .services2, .services3 {
+	width: 320px;
+	height: 250px;
+	margin: 5px;
+	border-radius: 20%;
+	transition: 4.5s;
+}
+.services1 {
+	background: #F7B589;
+}
+.services2 {
+	background: #5FC58A;
+}
+.services3 {
+	background: #96C4DD;
+}
+#nosotros h2 {
+	text-align: center;
+	justify-content: center;
+}
+#nosotros p {
+	width: 280px;
+	text-align: center;
+	justify-content: center;
+	margin-left: 20px;
+}
+#nosotros h2:hover {
+	color: #fff;
+	transition: all 0.5s;
+}

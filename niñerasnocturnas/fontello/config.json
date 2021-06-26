@@ -1,0 +1,88 @@
+{
+    "name": "",
+    "css_prefix_text": "icon-",
+    "css_use_suffix": false,
+    "hinting": true,
+    "units_per_em": 1000,
+    "ascent": 850,
+    "glyphs": [
+      {
+        "uid": "b91c0e6aaab5e3146732b69dd418e120",
+        "css": "up-open",
+        "code": 59401,
+        "src": "elusive"
+      },
+      {
+        "uid": "567e3e257f2cc8fba2c12bf691c9f2d8",
+        "css": "nocturno",
+        "code": 61830,
+        "src": "fontawesome"
+      },
+      {
+        "uid": "w3nzesrlbezu6f30q7ytyq919p6gdlb6",
+        "css": "deplanta",
+        "code": 59392,
+        "src": "typicons"
+      },
+      {
+        "uid": "ecede48deb16179e5ef9a3f8ffae62f4",
+        "css": "encasa",
+        "code": 59393,
+        "src": "fontawesome"
+      },
+      {
+        "uid": "297fe6c2ef08198b03d706ba52f51b7f",
+        "css": "foranea",
+        "code": 59394,
+        "src": "fontawesome"
+      },
+      {
+        "uid": "x8m4z7b33cv1h2s784tjlam56uq40wtd",
+        "css": "evsocial",
+        "code": 59395,
+        "src": "typicons"
+      },
+      {
+        "uid": "cfaa8fbbdcc7bb8d636cb974aad1f9b9",
+        "css": "evformal",
+        "code": 59396,
+        "src": "fontawesome"
+      },
+      {
+        "uid": "f185a7454f33a8fbcdd943db8a998cfd",
+        "css": "personalizado",
+        "code": 59397,
+        "src": "iconic"
+      },
+      {
+        "uid": "47a1f80457068fbeab69fdb83d7d0817",
+        "css": "youtube",
+        "code": 53,
+        "src": "fontawesome"
+      },
+      {
+        "uid": "4c1ef492f1d2c39a2250ae457cee2a6e",
+        "css": "instagram",
+        "code": 61805,
+        "src": "fontawesome"
+      },
+      {
+        "uid": "8e04c98c8f5ca0a035776e3001ad2638",
+        "css": "facebook",
+        "code": 61594,
+        "src": "fontawesome"
+      },
+      {
+        "uid": "fe6697b391355dec12f3d86d6d490397",
+        "css": "up",
+        "code": 59398,
+        "src": "fontawesome"
+      },
+      {
+        "uid": "559647a6f430b3aeadbecd67194451dd",
+        "css": "menu01",
+        "code": 61641,
+        "src": "fontawesome"
+      }
+    ]
+  }
